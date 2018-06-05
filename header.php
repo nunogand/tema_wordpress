@@ -52,6 +52,7 @@
 
 		<div id="main" class="main">
 			<header class="masthead animated fadeInLeft" role="banner">
+				<!-- Retirar o branding
 				<div class="branding">
 					<h1 class="logo">
 						<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php esc_attr_e( 'Home', 'kent' ); ?>">
@@ -62,4 +63,5 @@
 						<?php bloginfo( 'description' ); ?>
 					</h2>
 				</div>
+					retirar o branding -->
 			</header>
