@@ -1902,7 +1902,7 @@ body.slide {
   height: 100%;
   background-size: cover;
   background-position: center center;
-  vertical-align: bottom;
+  vertical-align: middle;
   position: relative;
 }
 #aside #cover-image .avatar {
