@@ -48,17 +48,7 @@
 ?>
 				</div>
 			</div>
-			<!-- adicionar branding ao fundo da sidebar-->
-			<div class="branding">
-				<h1 class="logo">
-					<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php esc_attr_e( 'Home', 'kent' ); ?>">
-						<?php bloginfo( 'name' ); ?>
-					</a>
-				</h1>
-				<h2 class="description">
-					<?php bloginfo( 'description' ); ?>
-				</h2>
-			</div>
+			
 		</div>
 
 		<div id="main" class="main">
