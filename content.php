@@ -24,6 +24,6 @@
 	}
 	the_excerpt();
 ?>
-		<p class="postmetadata"><a href="<?php the_permalink(); ?>" class="reading-time"><?php printf( __( 'Estimated reading time: %s', 'kent' ), kent_estimated_reading_time() ); ?></a></p>
+		<p class="postmetadata"><a href="<?php the_permalink(); ?>" class="reading-time"><?php printf( __( 'Duração aproximada da leitura: %s', 'kent' ), kent_estimated_reading_time() ); ?></a></p>
 	</section>
 </article>
