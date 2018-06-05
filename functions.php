@@ -388,9 +388,9 @@ function kent_estimated_reading_time() {
     $seconds = floor( $words % 120 / ( 120 / 60 ) );
 
     if ( 1 <= $minutes ) {
-        $estimated_time = sprintf( _n( '%d minute', '%d minutes', $minutes, 'kent' ), $minutes );
+        $estimated_time = sprintf( _n( '%d minuto', '%d minutos', $minutes, 'kent' ), $minutes );
     } else {
-        $estimated_time = sprintf( _n( '%d second', '%d seconds', $seconds, 'kent' ), $seconds );
+        $estimated_time = sprintf( _n( '%d segundo', '%d segundos', $seconds, 'kent' ), $seconds );
     }
 
     return $estimated_time;
