@@ -1,3 +1,9 @@
+=== A fazer ===
+* Remover o icone do Gravatar e substituir pelo meu
+* Remover a identificação (e consequente icone Gravatar) no fical de cada post????
+ 
+
+
 === Kent ===
 
 Contributors: binarymoon
