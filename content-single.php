@@ -35,7 +35,9 @@
 		the_tags( '<p class="tags">' . __( 'Tagged as: ', 'kent' ), ' ', '</p>' );
 	}
 
+/**
 	get_template_part( 'author-details' );
+*/
 ?>
 	</section>
 </article>
