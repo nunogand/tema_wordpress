@@ -42,10 +42,13 @@
 		<div id="aside">
 			<div id="cover-image">
 				<div class="social_container animated fadeInDown">
+<img src="http://blog.nunogand.com/wp/wp-content/uploads/2018/06/192x96.png">
+					<!--
 <?php
 	kent_user_avatar();
 	kent_social_links();
 ?>
+					-->
 				</div>
 			</div>
 			
