@@ -43,6 +43,11 @@
 			<div id="cover-image">
 				<div class="social_container animated fadeInDown">
 <img src="http://blog.nunogand.com/wp/wp-content/uploads/2018/06/192x96.png">
+<!-- 
+<img src="<?php echo get_template_directory_uri(); ?> /logo.png">
+-->
+<!-- falta colocar o logo.png na raiz do tema-->				
+					
 					<!--
 <?php
 	kent_user_avatar();
